@@ -1,6 +1,0 @@
-{
-  "name": "SELOOM1 WARP",
-  "description": "SELOOM1 WARP WireGuard VPN client with high-speed server connection, real-time download and upload counters, latency ping, IP address and country detection, and wire link configuration support.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
