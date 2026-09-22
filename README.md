@@ -2,7 +2,7 @@
 
 تطبيق SELOOM VPN لتجاوز الحجب على خط OODI.
 
-![واجهة تطبيق SELOOM VPN](docs/seloom-vpn-dashboard.png)
+![واجهة تطبيق SELOOM VPN](docs/seloom-vpn-dashboard.jpg)
 
 **حقوق المطور:** SELOOM1@
 
